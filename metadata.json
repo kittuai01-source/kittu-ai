@@ -1,0 +1,6 @@
+{
+  "name": "SceneLock AI",
+  "description": "Cinematic shot-by-shot image prompt generator with hybrid 2D spatial locking, camera mapping, Telugu and English scene analysis, and continuity validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
